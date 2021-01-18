@@ -1,6 +1,5 @@
 const fs = require('fs');
 const colors = require('colors');
-const { createHash } = require('crypto');
 
 
 let listadoPorHacer = [];
